@@ -1,5 +1,5 @@
 # Ini merupakan source code untuk halaman blog saya
-## Dapat dilihat di [https://haizim.one/blog/](https://haizim.one/blog/)
+## Hasil dapat dilihat di [https://haizim.one/blog/](https://haizim.one/blog/)
 
 ## Dibuat dengan :
 - ReactJS
