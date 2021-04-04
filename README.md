@@ -7,7 +7,8 @@
 - CSS
 - JSX
 
-Buat ilustrasinya juga seluruhnya saya bikin sendiri pake inkscape
+---
 
- Oiya, buat inspirasinya saya dapet dari
- [http://www.rleonardi.com/interactive-resume/](http://www.rleonardi.com/interactive-resume/)
+### Oiya, buat inspirasinya saya dapet dari [http://www.rleonardi.com/interactive-resume/](http://www.rleonardi.com/interactive-resume/)
+
+### Untuk kritik dan saran dapat dilayangkan ke [https://haizim.one/#call](https://haizim.one/#call)
